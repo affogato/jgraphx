@@ -991,9 +991,9 @@ public class mxConstants
 	public static final String SHAPE_IMAGE = "image";
 
     /**
-     * SHAPE_IMAGE
+     * SHAPE_LOADED_IMAGE
      */
-    public static final String SHAPE_LOADED_IMAGE = "image";
+    public static final String SHAPE_LOADED_IMAGE = "loaded_image";
 
     /**
 	 * SHAPE_ARROW
